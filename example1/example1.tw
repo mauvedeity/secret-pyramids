@@ -1,0 +1,15 @@
+::StoryTitle
+Example Story
+
+:: StoryData
+{
+	"ifid": "9CF559FD-D88D-401F-A498-40A1C8A27321"
+}
+
+::Start
+You decide to start writing a game.
+
+You use [[tweego->Done]].
+
+::Done
+You're done.
