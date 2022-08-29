@@ -1,15 +1,18 @@
-::StoryTitle
+:: StoryTitle
 Example Story
 
 :: StoryData
 {
-	"ifid": "9CF559FD-D88D-401F-A498-40A1C8A27321"
+	"ifid": "9CF559FD-D88D-401F-A498-40A1C8A27321",
+	"format": "SugarCube",
+	"format-version": "2.36.1",
+	"start": "Start"
 }
 
-::Start
+:: Start
 You decide to start writing a game.
 
 You use [[tweego->Done]].
 
-::Done
+:: Done
 You're done.
